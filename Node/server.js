@@ -23,3 +23,5 @@ app.on('stormpath.ready',function(){
 });
  
 app.listen(3000);
+
+//added simple comments
