@@ -1,0 +1,95 @@
+[{
+    "ID": 1,
+    "batchName": "REVERSE_TMS",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+            "currentStatus": "IN_PROGRESS"
+
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": "SUCCESS"
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": "FAILED"
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": "FATAL"
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": "CANCELED"
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": "PROCESS"
+    }
+  }, {
+    "ID": 2,
+    "batchName": "OPSCON_SUBMIT",
+    "scheduledTime": "Wed May 10 2017 12:00:00",
+    "jobIntervalTime": "3000ms",
+    "executionDetails": {
+      "lastJobStartedTime": "Fri May 26 2017 05:53:01",
+      "lastJobFinishedTime": "Fri May 26 2017 05:53:01",
+      "lastJobStatus": "SUCCESS",
+      "jobStartedTime": "Fri May 26 2017 05:53:04",
+      "jobFinishedTime": "Fri May 26 2017 05:53:04",
+      "currentStatus": ""
+    }
+  }
+  ]
+ 
